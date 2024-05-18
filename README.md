@@ -22,6 +22,6 @@
 - Write a function named `add` that takes two numbers as parameters and returns their sum.
 - Write a function named `greet` that takes a name as a parameter and prints a greeting message.
 
-### Exercise 6.1: Combining Everything
+### Exercise 6: Combining Everything
 - Create a function named `createPerson` that takes name, age, and hobbies as parameters and returns an object with those properties.
 - Create a function named `describePerson` that takes a person object and prints a description of the person (descriping the person's name, age and hobbies).
